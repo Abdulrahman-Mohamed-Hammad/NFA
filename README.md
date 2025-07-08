@@ -23,7 +23,7 @@ This is the task or theoretical question that the NFA simulator addresses.
 ---
 
 ### 📤 3. Output Execution
-Run test cases to verify if they are accepted or rejected based on your DFA.
+Run test cases to verify if they are accepted or rejected based on your NFA.
 
 📷 **Preview**:
 
